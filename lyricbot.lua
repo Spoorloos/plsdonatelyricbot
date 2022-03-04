@@ -1,7 +1,6 @@
 -- Settings
 local Type = "booth"; -- "booth", "sign"
 local Richtext = [[
-<stroke thickness="2">Karaoke Bot</stroke>
 <font color="#D4AF37">%s</font>
 ]];
 local Lyrics = [[
